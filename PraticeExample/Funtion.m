@@ -24,3 +24,16 @@ function dice_diff = loln(N)
     dice_diff = mean(rolls) - mean(1:N);
 
 end
+
+% <----------------SOLUTION OF 2 variable equation--------------------->
+% cos(theta)x1 +sin(theta)x2 = 1
+%-sin(theta)x1 +cos(theta) x2 = 1
+
+function x = solve_lin(theta)
+      
+    A = [ cos(theta),sin(theta);
+        -sin(theta) cos(theta) ]
+    b = [ 1;1]
+    
+    x = A\b; 
+end
