@@ -1,4 +1,4 @@
-%% MATLAB Problem 14
+% MATLAB Problem 14
 % Topic: Multiple plots + hold on + legend
 
 time = 0:1:10;

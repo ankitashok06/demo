@@ -1,4 +1,4 @@
-%% MATLAB Problem 13
+% MATLAB Problem 13
 % Topic: Basic Plotting
 
 %time = 0:1:10;

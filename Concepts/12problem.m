@@ -1,4 +1,4 @@
-%% MATLAB Problem 12
+% MATLAB Problem 12
 % Topic: Matrix Operations
 
 %A = [1 2 3;

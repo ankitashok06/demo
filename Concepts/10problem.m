@@ -1,4 +1,4 @@
-%% MATLAB Beginner Problem 10
+% MATLAB Beginner Problem 10
 % Topic: while loop
 
 % Start with:
